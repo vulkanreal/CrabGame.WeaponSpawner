@@ -14,7 +14,7 @@ thats my very first Crab Game mod so dont expect much
 ![image](https://i.imgur.com/B4yLQt9.jpg)
 
 
-## NOTE: you can only spawn weapons if you are the host of the server
-## NOTE 2: you cant spawn shotguns so people cant cheat with this mod :D
+NOTE: you can only spawn weapons if you are the host of the server
+NOTE 2: you cant spawn shotguns so people cant cheat with this mod
 
 have fun with it!
