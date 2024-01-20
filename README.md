@@ -4,8 +4,11 @@ thats my very first Crab Game mod so dont expect much
 # how to use it:
 - download [Bepinex](https://builds.bepinex.dev/projects/bepinex_be/577/BepInEx_UnityIL2CPP_x64_ec79ad0_6.0.0-be.577.zip)
 - open your game folder (on steam, right click Crab Game, manage > browse local files)
-- extract Bepinex so that all of it's files are in the game folder
+- extract Bepinex in the folder
 - run the game once
 - then close it
 - download `weaponspawner.dll` from [Releases](https://github.com/vulkanreal/CrabGame.WeaponSpawner/releases)
 - move `weaponspawner.dll` to your game folder `(Game Folder from step 2)/BepInEx/plugins/weaponspawner.dll`
+
+# screenshot!!
+![image](https://i.imgur.com/B4yLQt9.jpg)
