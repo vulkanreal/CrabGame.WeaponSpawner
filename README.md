@@ -10,5 +10,11 @@ thats my very first Crab Game mod so dont expect much
 - download `weaponspawner.dll` from [Releases](https://github.com/vulkanreal/CrabGame.WeaponSpawner/releases)
 - move `weaponspawner.dll` to your game folder `(Game Folder from step 2)/BepInEx/plugins/weaponspawner.dll`
 
-# screenshot!!
+# screenshot
 ![image](https://i.imgur.com/B4yLQt9.jpg)
+
+
+## NOTE: you can only spawn weapons if you are the host of the server
+## NOTE 2: you cant spawn shotguns so people cant cheat with this mod :D
+
+have fun with it!
